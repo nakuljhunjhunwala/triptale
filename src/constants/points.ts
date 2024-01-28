@@ -1,0 +1,1 @@
+export const pointsCategory = Object.freeze(['food', 'hotel', 'shopping', 'entertainment', 'other']);

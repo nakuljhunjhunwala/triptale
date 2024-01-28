@@ -1,0 +1,1 @@
+export type PointCategory = 'food' | 'hotel' | 'shopping' | 'entertainment' | 'other';
